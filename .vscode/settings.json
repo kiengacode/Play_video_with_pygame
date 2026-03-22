@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSaveWhenNoErrors": true,
+    "notebook.formatOnSave.enabled": true,
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.formatOnType": true,
+    "diffEditor.codeLens": false,
+    "python.REPL.enableREPLSmartSend": false
+}
